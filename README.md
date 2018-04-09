@@ -84,5 +84,6 @@ Wait 10 minutes.
 
 **Versions**
 
++ **09.04.18:** Add bc package.
 + **08.04.18:** Add tccping script and tcptraceroute package (thanks rcarmo).
 + **22.12.17:** Initial Release.
